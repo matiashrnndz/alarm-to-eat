@@ -1,5 +1,5 @@
 # alarm-to-eat
-[Proyect done on Nov 2016]
+[Project done on Nov 2016]
 
 ## Introduction
 
